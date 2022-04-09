@@ -1,4 +1,4 @@
 # gitstudy
-최지원
+최지원1
 LEE YOUCHAN
 yoonhyoungju
